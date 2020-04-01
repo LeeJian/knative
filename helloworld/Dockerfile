@@ -1,2 +1,2 @@
-FROM docker.io/gswk/knative-helloworld:latest
+FROM gcr.io/knative-samples/helloworld-go
 MAINTAINER lee
