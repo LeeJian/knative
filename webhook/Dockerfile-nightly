@@ -1,0 +1,2 @@
+FROM gcr.io/knative-nightly/knative.dev/net-istio/cmd/webhook@sha256:20fa75b4b40a619bb1e011a6e02f1a1663794359450110076220b8a560c3d6df
+MAINTAINER lee 
