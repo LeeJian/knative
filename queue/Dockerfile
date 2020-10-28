@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:0fad95e6903c53dbfb73deb7d04f54fea8e417ffff1ba9be7ae8464120ae11ec
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:0db974f58b48b219ab8047e11b481c2bbda52b7a2d54db5ed58e8659748ec125
 MAINTAINER lee
