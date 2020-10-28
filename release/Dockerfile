@@ -1,2 +1,2 @@
-FROM gcr.io/knative-nightly/knative.dev/net-istio/cmd/controller@sha256:67a6b650348c22011c2ca5824a5c7f229e587c613ff784b70dfd5c5c8535cb7b
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:49bb4cb2224b6d41d07f2259753fd89e8a440cd7bb81eee190faff1e817e7eb9
 MAINTAINER lee
