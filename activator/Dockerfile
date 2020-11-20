@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:69065cec1c1d57d1b16eb448c1abd895c2c554ef0ec19bedd1c14dc3150d2ff1
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:1e3db4f2eeed42d3ef03f41cc3d07c333edab92af3653a530d6d5f370da96ab6
 MAINTAINER lee
